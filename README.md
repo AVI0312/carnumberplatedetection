@@ -1,7 +1,7 @@
 # Car Numberplate Detection
 This code is used to detect license plate number of vehicles and store it text format including data and time at which the vehicle is detected.
 
-**Technology Stack**
+##**Technology Stack**  
 The system's high-performance backend, which is driven by Spring Boot and Java, enables safe and effective data processing and management.In order to precisely detect and identify cars, license plates, and traffic infractions, the system makes use of the power of OpenCV, TensorFlow, and Keras for its computer vision capabilities. Built on a dependable and scalable cloud-based platform is the infrastructure.
 
 
