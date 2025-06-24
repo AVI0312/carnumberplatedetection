@@ -1,5 +1,5 @@
 # Car Numberplate Detection
-This project is focused on detecting license plate number of vehicles and store it text format including data and time at which the vehicle is detected.
+This project aims to detect the license plate numbers of vehicles and save them in text format along with the corresponding date and time of detection.
 
 ## **Technology Stack**  
 The system's high-performance backend, which is driven by Spring Boot and Java, enables safe and effective data processing and management.In order to precisely detect and identify cars, license plates, and traffic infractions, the system makes use of the power of OpenCV, TensorFlow, and Keras for its computer vision capabilities. Built on a dependable and scalable cloud-based platform is the infrastructure.
