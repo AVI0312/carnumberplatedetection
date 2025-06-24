@@ -2,11 +2,11 @@
 
 A comprehensive system for detecting and recognizing number plates in video streams using YOLO for object detection and Tesseract for OCR.
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project provides an end-to-end solution for automatic number plate recognition (ANPR). It captures frames from a video, detects number plates using YOLO, extracts text using OCR, and logs the results. The system ensures data consistency by cleaning up images without corresponding text files.
 
-### 🚀 Key Features
+###  Key Features
 
 - **Frame Extraction:** Captures and saves frames from a video file.
 - **Object Detection:** Uses YOLO to detect number plates in video frames.
@@ -14,7 +14,7 @@ This project provides an end-to-end solution for automatic number plate recognit
 - **Data Logging:** Records detected number plates with timestamps.
 - **Data Cleanup:** Ensures only valid image-text pairs are retained.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **OpenCV (cv2):** For video processing and image manipulation.
 - **Pandas:** For handling detection data.
@@ -24,7 +24,7 @@ This project provides an end-to-end solution for automatic number plate recognit
 - **DateTime:** For logging timestamps.
 - **OS Module:** For file operations and directory management.
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 
