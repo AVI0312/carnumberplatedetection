@@ -1,5 +1,8 @@
-# carnumberplatedetection
+# Car Numberplate Detection
 This code is used to detect license plate number of vehicles and store it text format including data and time at which the vehicle is detected.
+Technology Stack
+![image](https://github.com/user-attachments/assets/08f27ae5-ddad-410b-8610-96d8f217a636)
+
 
 Dataset link:https://drive.google.com/file/d/1m4n4IN2WaS7RviR_8TH6Jze_mP4GvMLG/view?usp=sharing
              , https://drive.google.com/file/d/17zBwSwJCr4KY_KdGppLmPy9T8_Tr5MVx/view?usp=sharing
